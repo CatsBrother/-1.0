@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-03-04 14:40:52
+ * @version $Id$
+ */
+body{
+	height: 100%;
+	margin:0px;
+}
+
+.square{
+	background-color: orange;
+	border-radius: 20px;
+	width: 30%;
+	height: 30%;
+	margin:3% 0 0 3%;
+	float: left;
+	padding-bottom:30% 
+}
